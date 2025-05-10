@@ -1,2 +1,3 @@
-# Mario-Mini-clone
-A Game clone
+# Mini Mario Clone
+
+Ein hippiemäßiges Jump'n'Run-Spiel mit Touch-Steuerung, Synth-Musik und Cartoon-Design.
